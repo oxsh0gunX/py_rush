@@ -8,3 +8,4 @@ elif b>a and b>c:
     print(f"{b} is greater")
 else:
     print(f"{c} is greter")
+
