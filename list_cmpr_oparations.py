@@ -18,4 +18,5 @@ print(f"The same len{same_len}")
 print(f"same sum {same_sum}")
 print(f"commn value {commn_val}")
 
-    
+
+
