@@ -3,4 +3,4 @@ result=[]
 for number in all_number:
     if number>0:
         result.append(number)
-print(result)
+print(result) 
