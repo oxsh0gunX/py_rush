@@ -7,6 +7,7 @@ class bank:
         self.amount+=depo
         print(f"{depo} is sussesfully deposited ")
         print("Current balance is : ",self.amount)
+
     
     def withdrow(self,widr):
         if self.amount > widr:
